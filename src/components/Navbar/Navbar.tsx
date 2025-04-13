@@ -24,7 +24,7 @@ export default function Navbar() {
         </IconButton>
         <Button
           variant="contained"
-          onClick={navigate("/signup")}
+          onClick={() => navigate("/home")}
           sx={{ borderRadius: "50px", mt: 1.5 }}
         >
           Try now

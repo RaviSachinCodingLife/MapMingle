@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "state": "Uttar Pradesh",
+    "name": "Taj Mahal",
+    "popularPlace": "Agra Fort",
+    "lat": 27.1751,
+    "lng": 78.0421,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "description": "An ivory-white marble mausoleum on the right bank of the river Yamuna in Agra."
+  },
+  {
+    "id": 2,
+    "state": "Delhi",
+    "name": "India Gate",
+    "popularPlace": "Rashtrapati Bhavan",
+    "lat": 28.6129,
+    "lng": 77.2295,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/India_Gate_in_New_Delhi_03-2016_img3.jpg",
+    "description": "A war memorial located astride the Rajpath, on the eastern edge of the 'ceremonial axis' of New Delhi."
+  },
+  {
+    "id": 3,
+    "state": "Rajasthan",
+    "name": "Hawa Mahal",
+    "popularPlace": "City Palace",
+    "lat": 26.9239,
+    "lng": 75.8267,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hawa_Mahal_2011.jpg",
+    "description": "A palace in Jaipur, known as the 'Palace of Winds' with its unique five-story exterior."
+  },
+  {
+    "id": 4,
+    "state": "Telangana",
+    "name": "Charminar",
+    "popularPlace": "Golconda Fort",
+    "lat": 17.3616,
+    "lng": 78.4747,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Charminar_Hyderabad_India.jpg",
+    "description": "An iconic 16th-century mosque with four grand arches, located in Hyderabad."
+  },
+  {
+    "id": 5,
+    "state": "Maharashtra",
+    "name": "Gateway of India",
+    "popularPlace": "Elephanta Caves",
+    "lat": 18.9218,
+    "lng": 72.8347,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gateway_of_India_Mumbai.jpg",
+    "description": "A monumental arch overlooking the Arabian Sea, built during the 20th century in Mumbai."
+  },
+  {
+    "id": 6,
+    "state": "Karnataka",
+    "name": "Mysore Palace",
+    "popularPlace": "Chamundi Hill",
+    "lat": 12.3051,
+    "lng": 76.6551,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mysore_Palace_Front_View.jpg",
+    "description": "A historical palace in Mysore, known for its architectural grandeur and cultural significance."
+  },
+  {
+    "id": 7,
+    "state": "Odisha",
+    "name": "Sun Temple, Konark",
+    "popularPlace": "Puri Beach",
+    "lat": 19.8876,
+    "lng": 86.0945,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Konark_Sun_Temple.jpg",
+    "description": "A 13th-century temple dedicated to the sun god, renowned for its intricate stone carvings."
+  },
+  {
+    "id": 8,
+    "state": "West Bengal",
+    "name": "Victoria Memorial",
+    "popularPlace": "Howrah Bridge",
+    "lat": 22.5448,
+    "lng": 88.3426,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Victoria_Memorial_Kolkata.jpg",
+    "description": "A large marble building in Kolkata, built between 1906 and 1921 in memory of Queen Victoria."
+  },
+  {
+    "id": 9,
+    "state": "Punjab",
+    "name": "Golden Temple",
+    "popularPlace": "Jallianwala Bagh",
+    "lat": 31.6200,
+    "lng": 74.8765,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Golden_Temple_Amritsar.jpg",
+    "description": "The holiest Gurdwara of Sikhism, located in the city of Amritsar."
+  },
+  {
+    "id": 10,
+    "state": "Tamil Nadu",
+    "name": "Meenakshi Temple",
+    "popularPlace": "Thirumalai Nayakkar Mahal",
+    "lat": 9.9195,
+    "lng": 78.1190,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meenakshi_Temple_Madurai.jpg",
+    "description": "A historic Hindu temple located on the southern bank of the Vaigai River in Madurai."
+  },
+  {
+    "id": 11,
+    "state": "Andhra Pradesh",
+    "name": "Sri Venkateswara Temple",
+    "popularPlace": "Tirumala Hills",
+    "lat": 13.6876,
+    "lng": 79.3676,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sri_Venkateswara_Temple.jpg",
+    "description": "A temple dedicated to Lord Venkateswara, situated on the Tirumala Hills in Andhra Pradesh."
+  },
+  {
+    "id": 12,
+    "state": "Bihar",
+    "name": "Nalanda University",
+    "popularPlace": "Mahabodhi Temple",
+    "lat": 25.1389,
+    "lng": 85.4700,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nalanda_Univ.jpg",
+    "description": "An ancient center of learning, founded in the 5th century, now in ruins."
+  },
+  {
+    "id": 13,
+    "state": "Gujarat",
+    "name": "Rann of Kutch",
+    "popularPlace": "Dwarkadhish Temple",
+    "lat": 23.4202,
+    "lng": 69.3680,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rann_of_Kutch_2.jpg",
+    "description": "A large salt desert, known for its white landscape, located in the western part of India."
+  },
+  {
+    "id": 14,
+    "state": "Haryana",
+    "name": "Surajkund Mela",
+    "popularPlace": "Pinjore Gardens",
+    "lat": 28.4516,
+    "lng": 77.0251,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Surajkund_Mela.jpg",
+    "description": "A popular international crafts mela held annually, showcasing global craftsmanship."
+  },
+  {
+    "id": 15,
+    "state": "Himachal Pradesh",
+    "name": "The Ridge",
+    "popularPlace": "Jakhoo Temple",
+    "lat": 31.1042,
+    "lng": 77.1718,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Ridge_Shimla.jpg",
+    "description": "A large open space in Shimla, known for its scenic views and cultural significance."
+  },
+  {
+    "id": 16,
+    "state": "Jammu & Kashmir",
+    "name": "Dal Lake",
+    "popularPlace": "Shankaracharya Temple",
+    "lat": 34.0850,
+    "lng": 74.7973,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dal_Lake_Srinagar.jpg",
+    "description": "A picturesque lake surrounded by the beautiful Himalayan mountains in Srinagar."
+  },
+  {
+    "id": 17,
+    "state": "Jharkhand",
+    "name": "Betla National Park",
+    "popularPlace": "Ranchi Hill",
+    "lat": 23.7238,
+    "lng": 85.3200,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Betla_National_Park.jpg",
+    "description": "A renowned national park located in the Palamau region, famous for its wildlife."
+  },
+  {
+    "id": 18,
+    "state": "Kochi",
+    "name": "Fort Kochi",
+    "popularPlace": "Mattancherry Palace",
+    "lat": 9.9357,
+    "lng": 76.2673,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fort_Kochi.jpg",
+    "description": "A historic district in Kochi, known for its colonial architecture and cultural heritage."
+  },
+  {
+    "id": 19,
+    "state": "Madhya Pradesh",
+    "name": "Kanha National Park",
+    "popularPlace": "Sanchi Stupa",
+    "lat": 22.5585,
+    "lng": 80.3287,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kanha_National_Park.jpg",
+    "description": "One of the largest and most renowned national parks in central India, home to the Bengal tiger."
+  },
+  {
+    "id": 20,
+    "state": "Manipur",
+    "name": "Loktak Lake",
+    "popularPlace": "Keibul Lamjao National Park",
+    "lat": 24.4680,
+    "lng": 93.9202,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Loktak_Lake_Manipur.jpg",
+    "description": "The largest freshwater lake in northeastern India, known for its floating islands."
+  },
+  {
+    "id": 21,
+    "state": "Meghalaya",
+    "name": "Cherrapunji",
+    "popularPlace": "Nohkalikai Falls",
+    "lat": 25.2965,
+    "lng": 91.5820,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cherrapunji_Scenery.jpg",
+    "description": "A town famous for its heavy rainfall, living root bridges, and scenic landscapes."
+  },
+  {
+    "id": 22,
+    "state": "Mizoram",
+    "name": "Reiek Mountain",
+    "popularPlace": "Vantawng Waterfalls",
+    "lat": 23.2219,
+    "lng": 92.8772,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Reiek_Mountain.jpg",
+    "description": "A popular trekking destination offering panoramic views of the surrounding valleys."
+  },
+  {
+    "id": 23,
+    "state": "Nagaland",
+    "name": "Kohima",
+    "popularPlace": "Dzükou Valley",
+    "lat": 25.6753,
+    "lng": 94.1015,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kohima_District.jpg",
+    "description": "The capital city of Nagaland, known for its scenic hills and historical significance."
+  },
+  {
+    "id": 24,
+    "state": "Odisha",
+    "name": "Konark Sun Temple",
+    "popularPlace": "Jagannath Temple",
+    "lat": 19.8876,
+    "lng": 86.0945,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Konark_Sun_Temple.jpg",
+    "description": "A 13th-century sun temple dedicated to Surya, known for its architectural excellence."
+  },
+  {
+    "id": 25,
+    "state": "Puducherry",
+    "name": "Auroville",
+    "popularPlace": "Promenade Beach",
+    "lat": 11.9335,
+    "lng": 79.8080,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Auroville_Foundation.jpg",
+    "description": "An international township dedicated to human unity, located near Puducherry."
+  },
+  {
+    "id": 26,
+    "state": "Sikkim",
+    "name": "Khangchendzonga National Park",
+    "popularPlace": "Rumtek Monastery",
+    "lat": 27.8125,
+    "lng": 88.6148,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Khangchendzonga_National_Park.jpg",
+    "description": "A UNESCO World Heritage site, known for its rich biodiversity and stunning views of Mount Khangchendzonga."
+  },
+  {
+    "id": 27,
+    "state": "Tamil Nadu",
+    "name": "Ooty",
+    "popularPlace": "Botanical Garden",
+    "lat": 11.4064,
+    "lng": 76.6953,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ooty_Hill_Scene.jpg",
+    "description": "A hill station known for its pleasant climate, tea gardens, and lush landscapes."
+  },
+  {
+    "id": 28,
+    "state": "Uttarakhand",
+    "name": "Nainital",
+    "popularPlace": "Naini Lake",
+    "lat": 29.3800,
+    "lng": 79.4510,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nainital_Aerial_View.jpg",
+    "description": "A beautiful hill station known for its scenic lake and the surrounding mountains."
+  }
+]
