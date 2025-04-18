@@ -1,5 +1,5 @@
 import AppBar from "@mui/material/AppBar";
-import { Button, IconButton, styled, Toolbar, Typography } from "@mui/material";
+import { Button, IconButton, Toolbar, Typography } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 import * as style from "./style";
 
