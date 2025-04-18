@@ -6,8 +6,52 @@
     "popularPlace": "Agra Fort",
     "lat": 27.1751,
     "lng": 78.0421,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
-    "description": "An ivory-white marble mausoleum on the right bank of the river Yamuna in Agra."
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUAPyljk3lS_2YkQpkY2tQz4GLnmRncyUdRA&s",
+    "description": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra. Built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal, it's considered the finest example of Mughal architecture and a symbol of eternal love. The complex includes a mosque, guest house, and formal gardens spanning nearly 17 hectares. At sunrise, the marble appears pinkish, while at moonlight it looks golden.",
+    "hotels": [
+      {
+        "name": "The Oberoi Amarvilas",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 45000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "ITC Mughal, a Luxury Collection Hotel",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 12000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Taj Hotel & Convention Centre",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 9500,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Clarks Shiraz",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 6500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Crystal Sarovar Premiere",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 5500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Taj Resorts",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 2,
@@ -16,8 +60,52 @@
     "popularPlace": "Rashtrapati Bhavan",
     "lat": 28.6129,
     "lng": 77.2295,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/India_Gate_in_New_Delhi_03-2016_img3.jpg",
-    "description": "A war memorial located astride the Rajpath, on the eastern edge of the 'ceremonial axis' of New Delhi."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Findia-gate&psig=AOvVaw352xmmOmlPcIDJk7zrX_36&ust=1745037964961000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiF-JHj4IwDFQAAAAAdAAAAABAJ",
+    "description": "India Gate is a war memorial located astride the Rajpath, on the eastern edge of the 'ceremonial axis' of New Delhi. Originally called the All India War Memorial, it commemorates the 70,000 Indian soldiers who lost their lives fighting for the British Army during World War I. The 42-meter tall arch designed by Edwin Lutyens is surrounded by lush lawns that become lively in evenings with street food vendors and families. The Amar Jawan Jyoti (flame of the immortal soldier) was added later as a tribute to Indian soldiers who died in the 1971 Indo-Pak war.",
+    "hotels": [
+      {
+        "name": "The Imperial New Delhi",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 25000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "Taj Palace",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 18000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "The Leela Palace",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 22000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "The Lalit New Delhi",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 8500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel The Royal Plaza",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 7000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Palace Heights",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 5000,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 3,
@@ -26,8 +114,52 @@
     "popularPlace": "City Palace",
     "lat": 26.9239,
     "lng": 75.8267,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Hawa_Mahal_2011.jpg",
-    "description": "A palace in Jaipur, known as the 'Palace of Winds' with its unique five-story exterior."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHawa_Mahal&psig=AOvVaw15x9q94fbzDsrTqQ2Vu6Hy&ust=1745038002985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCuuaTj4IwDFQAAAAAdAAAAABAE",
+    "description": "Hawa Mahal or 'Palace of Winds' is a five-story pink sandstone palace in Jaipur with 953 small windows (jharokhas) decorated with intricate latticework. Built in 1799 by Maharaja Sawai Pratap Singh, the unique honeycomb structure was designed to allow royal ladies to observe street festivals while remaining unseen. The pyramid-shaped facade rises to a height of 50 feet without any foundation. The interior contains small chambers with colored marble work and fountains in the courtyard. The top floor offers panoramic views of Jaipur city and the nearby Jantar Mantar.",
+    "hotels": [
+      {
+        "name": "Rambagh Palace",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 35000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "The Oberoi Rajvilas",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 28000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "Jai Mahal Palace",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 15000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Hilton Jaipur",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 9000,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Pearl Palace",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 4000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Park Prime",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3000,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 4,
@@ -36,8 +168,52 @@
     "popularPlace": "Golconda Fort",
     "lat": 17.3616,
     "lng": 78.4747,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Charminar_Hyderabad_India.jpg",
-    "description": "An iconic 16th-century mosque with four grand arches, located in Hyderabad."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCharminar&psig=AOvVaw3okaGgQy-ByIB6snsW4_XX&ust=1745038030849000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPirurHj4IwDFQAAAAAdAAAAABAE",
+    "description": "Charminar is an iconic 16th-century mosque with four grand arches, located in the heart of Hyderabad. Built in 1591 by Muhammad Quli Qutb Shah to commemorate the end of a plague, this granite and lime mortar structure stands 56 meters tall. Each of the four arches faces a cardinal direction and opens into four bustling streets. The second floor houses Hyderabad's oldest mosque while the upper levels offer panoramic city views. The surrounding Laad Bazaar is famous for its bangles and pearls. At night, the illuminated Charminar presents a spectacular sight against the dark sky.",
+    "hotels": [
+      {
+        "name": "Taj Falaknuma Palace",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 40000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "The Park Hyderabad",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 7500,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Taj Krishna",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 12000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Novotel Hyderabad Convention Centre",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 8500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Plaza",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 4500,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sitara Grand",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 5,
@@ -46,8 +222,52 @@
     "popularPlace": "Elephanta Caves",
     "lat": 18.9218,
     "lng": 72.8347,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Gateway_of_India_Mumbai.jpg",
-    "description": "A monumental arch overlooking the Arabian Sea, built during the 20th century in Mumbai."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGateway_of_India&psig=AOvVaw08Zne9ioTc3Hzh_guzBzu8&ust=1745038052627000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID8uLvj4IwDFQAAAAAdAAAAABAJ",
+    "description": "The Gateway of India is a monumental arch overlooking the Arabian Sea, built during the 20th century in Mumbai. Constructed in Indo-Saracenic style to commemorate the 1911 visit of King George V, it became the ceremonial entrance to India for British viceroys. The 26-meter high structure combines elements of Roman triumphal arches with traditional Indian designs. From here, ferries depart for Elephanta Caves while the Taj Mahal Palace Hotel stands opposite. The surrounding area buzzes with street photographers, balloon sellers, and snack vendors. At night, the illuminated Gateway reflects beautifully on the harbor waters.",
+    "hotels": [
+      {
+        "name": "The Taj Mahal Palace",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 30000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "The Oberoi Mumbai",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 25000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "Trident Nariman Point",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 15000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "The Lalit Mumbai",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 9000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Marine Plaza",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 8000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Suba Palace",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 5000,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 6,
@@ -56,8 +276,52 @@
     "popularPlace": "Chamundi Hill",
     "lat": 12.3051,
     "lng": 76.6551,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mysore_Palace_Front_View.jpg",
-    "description": "A historical palace in Mysore, known for its architectural grandeur and cultural significance."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMysore_Palace&psig=AOvVaw3c2httw9fYpUdzF2C2KV8K&ust=1745038079736000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIirucjj4IwDFQAAAAAdAAAAABAK",
+    "description": "Mysore Palace is a historical palace in Mysore, known for its architectural grandeur and cultural significance. The current structure, completed in 1912, blends Hindu, Muslim, Rajput, and Gothic styles with its three-story stone structure featuring pink marble domes and a 145-foot tall five-story tower. The Durbar Hall has an ornate ceiling and stained glass windows while the Kalyana Mantapa (marriage pavilion) displays stunning peacock motifs. On Sundays and during the Dasara festival, 97,000 lights illuminate the palace. The palace houses a remarkable collection of sculptures, paintings, and royal memorabilia including a golden howdah (elephant seat) weighing 750 kg.",
+    "hotels": [
+      {
+        "name": "The Lalitha Mahal Palace",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 18000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Grand Mercure Mysuru",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 8500,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Radisson Blu Plaza Hotel",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 7500,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sandesh The Prince",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 5000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Roopa",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Pai Vista",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2800,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 7,
@@ -66,8 +330,52 @@
     "popularPlace": "Puri Beach",
     "lat": 19.8876,
     "lng": 86.0945,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Konark_Sun_Temple.jpg",
-    "description": "A 13th-century temple dedicated to the sun god, renowned for its intricate stone carvings."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fphotos%2Fkonark-sun-temple&psig=AOvVaw32-yyS_l_FFoDqJwIAn4LA&ust=1745038111193000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCEkdfj4IwDFQAAAAAdAAAAABAV",
+    "description": "The Sun Temple at Konark is a 13th-century architectural marvel designed as a gigantic chariot of the Sun God with 12 pairs of exquisitely carved stone wheels pulled by seven horses. Built by King Narasimhadeva I of the Eastern Ganga dynasty, the temple represents the pinnacle of Kalinga architecture with its intricate carvings depicting deities, animals, and scenes from daily life. The main temple was 229 feet tall but now stands partially ruined, with the Natya Mandapa (dancing hall) and Bhoga Mandapa (offering hall) still showcasing remarkable craftsmanship. The temple's alignment allows the first rays of sunrise to illuminate the main entrance.",
+    "hotels": [
+      {
+        "name": "The Mayfair Waves",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 12000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Toshali Sands",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Palm Beach Resort",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 6000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sun Temple",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 4500,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Konark Retreat",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Yatrinivas Konark",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 8,
@@ -76,18 +384,106 @@
     "popularPlace": "Howrah Bridge",
     "lat": 22.5448,
     "lng": 88.3426,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Victoria_Memorial_Kolkata.jpg",
-    "description": "A large marble building in Kolkata, built between 1906 and 1921 in memory of Queen Victoria."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVictoria_Memorial%2C_Kolkata&psig=AOvVaw2ZyE2WsrgkJjT6kg_-uypB&ust=1745038158296000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCC6e7j4IwDFQAAAAAdAAAAABAE",
+    "description": "The Victoria Memorial is a magnificent white marble building in Kolkata, built between 1906 and 1921 in memory of Queen Victoria. Designed by Sir William Emerson in Indo-Saracenic revivalist style, the structure blends British and Mughal elements with its high dome, clustered minarets, and sprawling gardens. The museum houses over 25 galleries displaying colonial-era paintings, manuscripts, and artifacts. The 64-acre gardens feature statues of British dignitaries and a 16-foot tall bronze statue of Victory atop the central dome. At sunset, the marble exterior takes on a golden hue, making it one of Kolkata's most photogenic landmarks.",
+    "hotels": [
+      {
+        "name": "The Oberoi Grand",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 18000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "Taj Bengal",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 15000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "ITC Royal Bengal",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 14000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "The Lalit Great Eastern",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 8500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Hindusthan International",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 6000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "The Peerless Inn",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 4500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 9,
     "state": "Punjab",
     "name": "Golden Temple",
     "popularPlace": "Jallianwala Bagh",
-    "lat": 31.6200,
+    "lat": 31.62,
     "lng": 74.8765,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Golden_Temple_Amritsar.jpg",
-    "description": "The holiest Gurdwara of Sikhism, located in the city of Amritsar."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fgolden-temple-india&psig=AOvVaw1aWBps0NkJYndy9XbtDUFt&ust=1745038186830000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCe9Pzj4IwDFQAAAAAdAAAAABAU",
+    "description": "The Golden Temple (Harmandir Sahib) is the holiest Gurdwara of Sikhism, located in the city of Amritsar. The stunning golden structure sits amidst the Amrit Sarovar (Pool of Nectar) which gives the city its name. Built in the 16th century and later adorned with gold plating by Maharaja Ranjit Singh, the temple complex welcomes over 100,000 visitors daily. The four entrances symbolize openness to all religions and castes. The continuous recitation of Guru Granth Sahib (Sikh holy book) creates a spiritually charged atmosphere. The community kitchen (langar) serves free meals to 50,000-100,000 people every day, regardless of background.",
+    "hotels": [
+      {
+        "name": "Hyatt Amritsar",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 12000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Radisson Blu Amritsar",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 9500,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Ramada Amritsar",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 7500,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Golden Tulip",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 5500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel City Park",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel HK Clarks Inn",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.8,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 10,
@@ -95,9 +491,53 @@
     "name": "Meenakshi Temple",
     "popularPlace": "Thirumalai Nayakkar Mahal",
     "lat": 9.9195,
-    "lng": 78.1190,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meenakshi_Temple_Madurai.jpg",
-    "description": "A historic Hindu temple located on the southern bank of the Vaigai River in Madurai."
+    "lng": 78.119,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FRegalocasila-Beautiful-Meenakshi-Decoration-Waterproof%2Fdp%2FB0C9MRKW9V&psig=AOvVaw3tMrSrIsuqRxavjgLeoT2i&ust=1745038224399000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDhyo3k4IwDFQAAAAAdAAAAABAQ",
+    "description": "The Meenakshi Amman Temple is a historic Hindu temple dedicated to Goddess Meenakshi (Parvati) and her consort Sundareshwar (Shiva), located on the southern bank of the Vaigai River in Madurai. This 17th-century architectural wonder features 14 towering gopurams (gateway towers) covered with thousands of colorful stucco figures depicting gods, demons, and mythological scenes. The tallest gopuram rises to 170 feet. The temple complex spans 45 acres with halls like the Thousand Pillar Mandapam showcasing exquisite stone carvings. The golden lotus tank is where manuscripts were once tested by floating them - if they sank, they were deemed unworthy.",
+    "hotels": [
+      {
+        "name": "Heritage Madurai",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 8500,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "The Gateway Hotel Pasumalai",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 7000,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Fortune Pandiyan Hotel",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 6000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sangam",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 4500,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Supreme",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Germanus",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 11,
@@ -106,8 +546,52 @@
     "popularPlace": "Tirumala Hills",
     "lat": 13.6876,
     "lng": 79.3676,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Sri_Venkateswara_Temple.jpg",
-    "description": "A temple dedicated to Lord Venkateswara, situated on the Tirumala Hills in Andhra Pradesh."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.in%2Fphotos%2Ftirupati-temple&psig=AOvVaw2GN94eufEMSaXtwVD4ngk3&ust=1745038265983000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCny6Hk4IwDFQAAAAAdAAAAABAE",
+    "description": "The Sri Venkateswara Temple in Tirumala is one of the world's richest and most visited religious centers, dedicated to Lord Venkateswara (an incarnation of Vishnu). Perched atop the seven hills of Tirumala at 853 meters elevation, the temple's origins date back to ancient times with major contributions by various dynasties. The gold-plated gopuram (Ananda Nilayam) and the deity adorned with precious jewels are awe-inspiring. Devotees undergo a rigorous pilgrimage, often walking barefoot up the hills. The temple serves over 50,000 free meals daily and collects offerings worth millions through the hundi (donation box). The hair tonsuring ceremony is a unique tradition where devotees offer their hair to the deity.",
+    "hotels": [
+      {
+        "name": "Fortune Select Grand Ridge",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 9500,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Mayura Tirupati",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 6500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Bliss",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 5000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Bhimas Deluxe",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 4000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Raj Park",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3000,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "TTD Sri Venkata Sai Guest House",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 1500,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 12,
@@ -115,9 +599,53 @@
     "name": "Nalanda University",
     "popularPlace": "Mahabodhi Temple",
     "lat": 25.1389,
-    "lng": 85.4700,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Nalanda_Univ.jpg",
-    "description": "An ancient center of learning, founded in the 5th century, now in ruins."
+    "lng": 85.47,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNalanda_mahavihara&psig=AOvVaw05CNdpraXKyj-KdlcqCSrP&ust=1745038294557000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjb8K_k4IwDFQAAAAAdAAAAABAJ",
+    "description": "Nalanda University was an ancient center of learning established in the 5th century CE, now in ruins. At its peak, this Buddhist monastic university attracted scholars from as far as China, Persia, and Greece, with over 10,000 students and 2,000 teachers. The extensive ruins spread over 14 hectares include stupas, temples, and residential cells arranged in a precise grid pattern. The library, said to have contained millions of manuscripts, burned for months when attacked by invaders in 1193. Excavations have revealed beautiful stucco art, bronze statues, and evidence of advanced water management systems. The new Nalanda University nearby continues its legacy as an international institution.",
+    "hotels": [
+      {
+        "name": "Nalanda Regency",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 5500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Tathagat",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 4000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Sujata Hotel",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Royal Residency",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3000,
+        "rating": 3.8,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Siddharth",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      },
+      {
+        "name": "Buddha Vihar",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 1500,
+        "rating": 3.5,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 13,
@@ -125,9 +653,53 @@
     "name": "Rann of Kutch",
     "popularPlace": "Dwarkadhish Temple",
     "lat": 23.4202,
-    "lng": 69.3680,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rann_of_Kutch_2.jpg",
-    "description": "A large salt desert, known for its white landscape, located in the western part of India."
+    "lng": 69.368,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Futsav.gov.in%2Fview-event%2Frann-utsav-1&psig=AOvVaw0WYc8wfijfM2mNtMLB61bt&ust=1745038320513000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCLxbvk4IwDFQAAAAAdAAAAABAE",
+    "description": "The Rann of Kutch is a vast salt marsh in the Thar Desert, famous for its white salt crust that stretches to the horizon. During monsoon, the marsh floods with seawater, while winter transforms it into a surreal white desert under the full moon. The region hosts the Rann Utsav festival (Nov-Feb) featuring cultural performances, handicraft markets, and adventure activities. The nearby Kutch Desert Wildlife Sanctuary is home to flamingos, wild asses, and migratory birds. Local artisans create exquisite embroidery, bandhani textiles, and silver jewelry. The Banni grasslands and flamingo colonies near Khavda offer spectacular wildlife viewing opportunities.",
+    "hotels": [
+      {
+        "name": "Rann Riders Resort",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 12000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "The Gateway Hotel Rann of Kutch",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 9500,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Shaam-e-Sarhad Village Resort",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 6500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Toran Rann Resort",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 5500,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Prince",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Desert Coursers",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 14,
@@ -136,8 +708,52 @@
     "popularPlace": "Pinjore Gardens",
     "lat": 28.4516,
     "lng": 77.0251,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Surajkund_Mela.jpg",
-    "description": "A popular international crafts mela held annually, showcasing global craftsmanship."
+    "image": "https://media.istockphoto.com/id/1163574994/photo/surajkund-international-crafts-mela-crowd-is-enjoying.jpg?s=612x612&w=0&k=20&c=i3JKAkDs1xz8hiOJW3yxAClIEbzn7xxmgeZ5DQ5__WQ=",
+    "description": "The Surajkund International Crafts Mela is a vibrant annual fair held in February showcasing traditional Indian handicrafts and cultural performances. Spread over 40 acres, the fair features over 20 country-themed pavilions and 500+ craft stalls from across India. Artisans demonstrate live craft-making including pottery, weaving, and metalwork. Cultural stages host folk dances like Ghoomar and Chhau while food stalls serve regional delicacies. The adjacent 10th-century Surajkund reservoir and the Mughal-style Pinjore Gardens (Yadavindra Gardens) with their terraced lawns and fountains make excellent excursions. The mela's highlight is the nightly sound-and-light show depicting India's cultural heritage.",
+    "hotels": [
+      {
+        "name": "The Oberoi Gurgaon",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 20000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "The Leela Ambience Gurugram",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 15000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Lemon Tree Premier",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 7500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Radisson Blu Faridabad",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 6500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Crowne Plaza",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5500,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel City Park",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 15,
@@ -146,18 +762,106 @@
     "popularPlace": "Jakhoo Temple",
     "lat": 31.1042,
     "lng": 77.1718,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Ridge_Shimla.jpg",
-    "description": "A large open space in Shimla, known for its scenic views and cultural significance."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tripadvisor.in%2FAttraction_Review-g304552-d6496310-Reviews-The_Ridge-Shimla_Shimla_District_Himachal_Pradesh.html&psig=AOvVaw2LkLmq3QuHiKOfWSWIjd7p&ust=1745038372753000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJiZqdXk4IwDFQAAAAAdAAAAABAE",
+    "description": "The Ridge is a large open space in Shimla offering panoramic views of the snow-capped Himalayas and the surrounding valleys. This cultural hub hosts the annual Summer Festival and serves as the venue for Shimla's famous ice-skating rink in winter. Flanked by neo-Gothic structures like Christ Church and the State Library, it's lined with shops selling woolens, handicrafts, and Himachali souvenirs. The nearby Scandal Point offers legendary views of sunset over the mountains. During winters, the Ridge transforms into a snowy wonderland while summers bring colorful flower displays. The Mall Road adjacent to it features colonial-era buildings and charming cafes.",
+    "hotels": [
+      {
+        "name": "The Oberoi Cecil",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 25000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "Wildflower Hall",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 35000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "Radisson Hotel Shimla",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 12000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Willow Banks",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Combermere",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 6000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Dreamland",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 16,
     "state": "Jammu & Kashmir",
     "name": "Dal Lake",
     "popularPlace": "Shankaracharya Temple",
-    "lat": 34.0850,
+    "lat": 34.085,
     "lng": 74.7973,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dal_Lake_Srinagar.jpg",
-    "description": "A picturesque lake surrounded by the beautiful Himalayan mountains in Srinagar."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdal-lake-srinagar&psig=AOvVaw33dea7VKiYR5RUWrW7wbRK&ust=1745038402195000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNCUteLk4IwDFQAAAAAdAAAAABAP",
+    "description": "Dal Lake is the jewel of Srinagar, surrounded by the majestic Himalayan mountains and Mughal-era gardens. The lake is famous for its colorful shikaras (wooden boats) and floating houseboats that offer unique accommodation. The floating vegetable markets at dawn and the lotus blooms in summer are visual delights. The lake has four distinct basins with the most beautiful being the Nagin Lake. Mughal gardens like Shalimar Bagh and Nishat Bagh slope down towards the lake. Winters see parts of the lake freeze while spring brings vibrant tulip gardens to life. The lake's floating villages with their handicraft shops and willow woodwork represent centuries-old Kashmiri traditions.",
+    "hotels": [
+      {
+        "name": "The Lalit Grand Palace",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 22000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Heevan",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 12000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "New Bristol Hotel",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 8500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Akbar",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 6500,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Pine Spring",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Broadway",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 4000,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 17,
@@ -165,19 +869,107 @@
     "name": "Betla National Park",
     "popularPlace": "Ranchi Hill",
     "lat": 23.7238,
-    "lng": 85.3200,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Betla_National_Park.jpg",
-    "description": "A renowned national park located in the Palamau region, famous for its wildlife."
+    "lng": 85.32,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prabhatkhabar.com%2Ftop-stories%2Fbetla-national-park-tourists-no-entry-from-july-1-enjoy-palamu-kila-lodh-falls-grj&psig=AOvVaw3sHBDHu5jrA5s7QCP9HEsv&ust=1745038435197000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjbh_Pk4IwDFQAAAAAdAAAAABAP",
+    "description": "Betla National Park is one of India's first tiger reserves, located in the Palamau district of Jharkhand. The park's diverse landscape includes tropical forests, grasslands, and the ruins of a 16th-century fort. It's home to tigers, leopards, elephants, and over 170 bird species. The Koel River flows through the park, creating watering holes frequented by wildlife. The park offers elephant safaris, jeep tours, and watchtowers for wildlife spotting. Nearby attractions include the Lodh Falls (highest in Jharkhand) and Netarhat plateau known as the 'Queen of Chotanagpur'. The park's buffer zone has tribal villages showcasing unique local cultures.",
+    "hotels": [
+      {
+        "name": "Van Vihar Resort",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 6000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Palamau Tiger Reserve Forest Lodge",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Aastha",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 3000,
+        "rating": 3.8,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Arya",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Green Acres",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2000,
+        "rating": 3.6,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Raj Darbar",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 1500,
+        "rating": 3.5,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 18,
-    "state": "Kochi",
+    "state": "Kerala",
     "name": "Fort Kochi",
     "popularPlace": "Mattancherry Palace",
     "lat": 9.9357,
     "lng": 76.2673,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fort_Kochi.jpg",
-    "description": "A historic district in Kochi, known for its colonial architecture and cultural heritage."
+    "image": "https://img.cdn.zostel.com/blog_photo/Flickr_Kochi.jpg",
+    "description": "Fort Kochi is a historic seaside neighborhood showcasing Kerala's colonial heritage through its Portuguese, Dutch, and British architecture. The iconic Chinese fishing nets along the waterfront create a picturesque silhouette at sunset. The area is famous for its art galleries, antique shops, and the biennial Kochi-Muziris Art Festival. The 16th-century Mattancherry Palace (Dutch Palace) features exquisite murals depicting Hindu epics while the Paradesi Synagogue (1568) has hand-painted Chinese tiles. St. Francis Church (1503) houses Vasco da Gama's original burial site. The Kochi Carnival in December transforms the streets into a vibrant celebration with processions and cultural performances.",
+    "hotels": [
+      {
+        "name": "Brunton Boatyard",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 18000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "The Malabar House",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 15000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Forte Kochi",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 9500,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "The Old Harbour Hotel",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 8000,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sea Lord",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Forte Manor",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 19,
@@ -186,18 +978,106 @@
     "popularPlace": "Sanchi Stupa",
     "lat": 22.5585,
     "lng": 80.3287,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kanha_National_Park.jpg",
-    "description": "One of the largest and most renowned national parks in central India, home to the Bengal tiger."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fkanha-national-park&psig=AOvVaw0M8y8HcqNEsQdWyXow0xx2&ust=1745038504305000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj6lpbl4IwDFQAAAAAdAAAAABAE",
+    "description": "Kanha National Park, one of India's largest tiger reserves, inspired Rudyard Kipling's 'Jungle Book'. The park's sal and bamboo forests, grassy meadows, and ravines shelter tigers, leopards, wild dogs, and the rare hard-ground barasingha (swamp deer). The Bamni Dadar (Sunset Point) offers panoramic views over the park. Morning elephant safaris provide unique wildlife encounters while evening cultural programs showcase tribal dances. The park's conservation success includes saving the barasingha from near extinction. Nearby attractions include the prehistoric rock paintings at Bheemkho and the Buddhist monuments at Sanchi (3 hours away).",
+    "hotels": [
+      {
+        "name": "Taj Banjaar Tola",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 45000,
+        "rating": 4.9,
+        "reviews": 10
+      },
+      {
+        "name": "Chitvan Jungle Lodge",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 25000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Kanha Earth Lodge",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 18000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Tuli Tiger Resort",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 12000,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Mogli Resort",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 8000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Green Woods",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 20,
     "state": "Manipur",
     "name": "Loktak Lake",
     "popularPlace": "Keibul Lamjao National Park",
-    "lat": 24.4680,
+    "lat": 24.468,
     "lng": 93.9202,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Loktak_Lake_Manipur.jpg",
-    "description": "The largest freshwater lake in northeastern India, known for its floating islands."
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnJaCBA_7bEtvGoePD76f_sED2qwV2Jt8h7g&s",
+    "description": "Loktak Lake is the largest freshwater lake in Northeast India, famous for its unique floating phumdis (heterogeneous mass of vegetation). The Keibul Lamjao National Park, the world's only floating national park, is home to the endangered Sangai deer (Manipur's brow-antlered deer). The lake serves as a lifeline for local communities who live in floating huts and practice fish farming. The Sendra Island viewpoint offers panoramic lake views while the INA Memorial Complex at Moirang commemorates Netaji Subhas Chandra Bose's Indian National Army. The lake's ecosystem supports over 200 aquatic plant species and 400+ animal species including migratory birds.",
+    "hotels": [
+      {
+        "name": "Classic Hotel",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 5500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Nirmala",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 4000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "The Sangai Continental",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Bheigo",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3000,
+        "rating": 3.8,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Breeze",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Bheigo",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2000,
+        "rating": 3.6,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 21,
@@ -205,9 +1085,53 @@
     "name": "Cherrapunji",
     "popularPlace": "Nohkalikai Falls",
     "lat": 25.2965,
-    "lng": 91.5820,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Cherrapunji_Scenery.jpg",
-    "description": "A town famous for its heavy rainfall, living root bridges, and scenic landscapes."
+    "lng": 91.582,
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftravenjo.com%2Fthings-to-do-in-cherrapunji%2F&psig=AOvVaw0W0Je159gepEMac61O1k8B&ust=1745038605415000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCIpMXl4IwDFQAAAAAdAAAAABAE",
+    "description": "Cherrapunji (Sohra), once the wettest place on earth, offers breathtaking landscapes of waterfalls, living root bridges, and deep gorges. The Nohkalikai Falls (India's tallest plunge waterfall at 340m) cascades into a jade-green pool. The double-decker living root bridges in nearby villages demonstrate the Khasi tribe's ancient bio-engineering skills. The Mawsmai Cave features stunning limestone formations while the Seven Sisters Falls creates a spectacular vista during monsoon. The Eco Park offers panoramic views of the Bangladesh plains. The region's unique orange honey and black Khasi rice are local specialties. Winters bring clear skies perfect for stargazing.",
+    "hotels": [
+      {
+        "name": "Polo Orchid Resort",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 12000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Jiva Resort",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 9500,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Cherrapunjee Holiday Resort",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 6500,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Sohra Plaza",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 4500,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Coniferous Resort",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Holiday Inn",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 22,
@@ -216,8 +1140,52 @@
     "popularPlace": "Vantawng Waterfalls",
     "lat": 23.2219,
     "lng": 92.8772,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Reiek_Mountain.jpg",
-    "description": "A popular trekking destination offering panoramic views of the surrounding valleys."
+    "image": "https://xplro.com/wp-content/uploads/2024/07/Xplro-2024-07-27T230103.234.jpg",
+    "description": "Reiek Mountain is a picturesque trekking destination near Aizawl offering panoramic views of the surrounding valleys and hills. The mountain is part of a heritage village showcasing traditional Mizo huts and way of life. The trek passes through lush bamboo forests and rhododendron blooms (in spring). The nearby Vantawng Falls (Mizoram's highest at 750 feet) is surrounded by dense tropical forest. Reiek's cool climate makes it ideal for camping while winter months occasionally bring frost. The mountain is sacred to local tribes and features in Mizo folklore. The annual Anthurium Festival (September) displays vibrant flowers and cultural performances.",
+    "hotels": [
+      {
+        "name": "Hotel Regency",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "The Heritage",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 4000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Elite",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Floria",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3000,
+        "rating": 3.8,
+        "reviews": 10
+      },
+      {
+        "name": "Ritz Hotel",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Chief",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2000,
+        "rating": 3.6,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 23,
@@ -226,8 +1194,52 @@
     "popularPlace": "Dzükou Valley",
     "lat": 25.6753,
     "lng": 94.1015,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kohima_District.jpg",
-    "description": "The capital city of Nagaland, known for its scenic hills and historical significance."
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftraveltriangle.com%2Fblog%2Fplaces-to-visit-in-kohima%2F&psig=AOvVaw1E02-amWNEpDXGfwxBMR6y&ust=1745038681205000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiOjOnl4IwDFQAAAAAdAAAAABAE",
+    "description": "Kohima, Nagaland's capital, is a scenic hill station surrounded by pine-covered ridges. The Kohima War Cemetery commemorates WWII's Battle of Kohima with manicured lawns and stone markers. The State Museum showcases Naga tribal artifacts including ceremonial costumes and weapons. The vibrant Kisama Heritage Village hosts the annual Hornbill Festival (December) featuring tribal dances, archery, and indigenous games. Nearby Dzükou Valley is a trekker's paradise with rolling green hills and rare lilies. Kohima's local markets sell exquisite Naga shawls, bamboo crafts, and fiery Raja Mircha chillies. The Catholic Cathedral's panoramic hilltop location offers stunning sunset views.",
+    "hotels": [
+      {
+        "name": "The Heritage",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 6500,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Vivor",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Japfü",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 4000,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Razhu Pru",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Dream Cafe Homestay",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 2500,
+        "rating": 3.8,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Acacia",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2000,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 24,
@@ -236,8 +1248,46 @@
     "popularPlace": "Jagannath Temple",
     "lat": 19.8876,
     "lng": 86.0945,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Konark_Sun_Temple.jpg",
-    "description": "A 13th-century sun temple dedicated to Surya, known for its architectural excellence."
+    "image": "https://www.increedibleindia.com/wp-content/uploads/2020/12/Sun-Temple-Konark-scaled.jpg",
+    "description": "The Sun Temple at Konark is a 13th-century architectural marvel designed as a gigantic chariot of the Sun God with 12 pairs of exquisitely carved stone wheels pulled by seven horses. Built by King Narasimhadeva I of the Eastern Ganga dynasty, the temple represents the pinnacle of Kalinga architecture with its intricate carvings depicting deities, animals, and scenes from daily life. The main temple was 229 feet tall but now stands partially ruined, with the Natya Mandapa (dancing hall) and Bhoga Mandapa (offering hall) still showcasing remarkable craftsmanship. The temple's alignment allows the first rays of sunrise to illuminate the main entrance.",
+    "hotels": [
+      {
+        "name": "The Mayfair Waves",
+        "price": 12000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Toshali Sands",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Palm Beach Resort",
+        "price": 6000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sun Temple",
+        "price": 4500,
+        "rating": 4.0,
+        "reviews": 10
+      },
+      {
+        "name": "Konark Retreat",
+        "price": 3500,
+        "rating": 3.9,
+        "reviews": 10
+      },
+      {
+        "name": "Yatrinivas Konark",
+        "price": 2500,
+        "rating": 3.7,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 25,
@@ -245,9 +1295,53 @@
     "name": "Auroville",
     "popularPlace": "Promenade Beach",
     "lat": 11.9335,
-    "lng": 79.8080,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Auroville_Foundation.jpg",
-    "description": "An international township dedicated to human unity, located near Puducherry."
+    "lng": 79.808,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62GMBMslAGGlJh1WGqW2RPixwew6sRd7Eeg&s",
+    "description": "Auroville is an experimental township founded in 1968 based on Sri Aurobindo's vision of human unity. The Matrimandir (Golden Globe) at its center is a meditation chamber with a crystal-filled inner room illuminated by sunlight. The township's radial design includes zones for industry, culture, and international pavilions representing different nations. Auroville's reforestation efforts transformed barren land into lush forests using innovative water conservation techniques. The Visitor Center introduces the community's sustainable practices while nearby Promenade Beach offers colonial-era architecture and seaside cafes. Auroville's handicraft units produce organic products, handmade paper, and ceramic art reflecting its eco-conscious ethos.",
+    "hotels": [
+      {
+        "name": "The Promenade",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 15000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Le Dupleix",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 12000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Villa Shanti",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 10000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel de l'Orient",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "The Atithi",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Guest Accomodation",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 2000,
+        "rating": 3.9,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 26,
@@ -256,8 +1350,52 @@
     "popularPlace": "Rumtek Monastery",
     "lat": 27.8125,
     "lng": 88.6148,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Khangchendzonga_National_Park.jpg",
-    "description": "A UNESCO World Heritage site, known for its rich biodiversity and stunning views of Mount Khangchendzonga."
+    "image": "https://kaziranganationalparkassam.in/wp-content/uploads/2020/12/Screenshot_2020-05-29-12-41-36-703_com.facebook.katana.jpg",
+    "description": "Khangchendzonga National Park, a UNESCO World Heritage Site, surrounds the world's third highest peak (8,586m). The park's diverse ecosystems range from subtropical forests to alpine meadows and glaciers. It shelters rare species like the snow leopard, red panda, and blood pheasant. The Dzongri and Goecha La treks offer spectacular mountain views while Yuksom serves as the gateway to these trails. The park is sacred to Sikkimese Buddhists, featuring prayer flags and monasteries at high altitudes. The Rumtek Monastery nearby is the seat of the Karmapa Lama with stunning murals and religious artifacts. Spring brings vibrant rhododendron blooms across the park's valleys.",
+    "hotels": [
+      {
+        "name": "The Elgin Mount Pandim",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 18000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "The Royal Plaza",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 12000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Mayfair Spa Resort",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 15000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Tashi Gang",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sonam Delek",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Tibet",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 27,
@@ -266,17 +1404,105 @@
     "popularPlace": "Botanical Garden",
     "lat": 11.4064,
     "lng": 76.6953,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ooty_Hill_Scene.jpg",
-    "description": "A hill station known for its pleasant climate, tea gardens, and lush landscapes."
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEj5fQZM0_rZ7RsagXUgQGxVNtLHxfeQH0A&s",
+    "description": "Ooty (Udhagamandalam) is a charming hill station in the Nilgiri Hills, famous for its tea gardens, colonial architecture, and pleasant climate. The Government Botanical Gardens (1847) feature 55 acres of exotic plants, a fossilized tree trunk, and colorful flower displays. The Nilgiri Mountain Railway's toy train offers scenic journeys through tunnels and tea estates. Doddabetta Peak (8,650 ft) provides panoramic views while Ooty Lake offers boating amidst eucalyptus trees. The town's colonial legacy includes stone churches and the Raj Bhavan summer residence. Local specialties include homemade chocolates, Nilgiri tea, and eucalyptus oil. The annual Summer Festival features flower shows and boat races.",
+    "hotels": [
+      {
+        "name": "Taj Savoy",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 20000,
+        "rating": 4.8,
+        "reviews": 10
+      },
+      {
+        "name": "The Gateway Hotel Churchgate",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 15000,
+        "rating": 4.6,
+        "reviews": 10
+      },
+      {
+        "name": "Fortune Sullivan Court",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 10000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "Sterling Ooty Elk Hill",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 8000,
+        "rating": 4.3,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Lakeview",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Blue Hills",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   },
   {
     "id": 28,
     "state": "Uttarakhand",
     "name": "Nainital",
     "popularPlace": "Naini Lake",
-    "lat": 29.3800,
-    "lng": 79.4510,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Nainital_Aerial_View.jpg",
-    "description": "A beautiful hill station known for its scenic lake and the surrounding mountains."
+    "lat": 29.38,
+    "lng": 79.451,
+    "image": "https://static.toiimg.com/photo/104218043.cms",
+    "description": "Nainital is a picturesque hill station centered around the emerald-shaped Naini Lake, believed to be one of the 64 Shakti Peeths. The Mall Road encircles the lake, lined with colonial buildings, cafes, and souvenir shops. Snow View Point (2,270m) offers panoramic Himalayan vistas accessible by cable car. The Naina Devi Temple on the lake's north shore is a major pilgrimage site. Boating on the lake at sunset is a magical experience while the nearby Eco Cave Gardens feature interconnected caves and hanging gardens. The annual Nainital Winter Carnival celebrates local culture with music and adventure sports. The surrounding hills offer trekking routes with oak and deodar forests.",
+    "hotels": [
+      {
+        "name": "The Naini Retreat",
+        "image": "https://i.pinimg.com/474x/b0/e5/ca/b0e5ca68270c85fc46f258819251c5d0.jpg",
+        "price": 18000,
+        "rating": 4.7,
+        "reviews": 10
+      },
+      {
+        "name": "Shervani Hilltop",
+        "image": "https://image.wedmegood.com/resized/720X/uploads/member/745917/1569669028_Screenshot_from_2019_09_28_16_37_36.png",
+        "price": 12000,
+        "rating": 4.5,
+        "reviews": 10
+      },
+      {
+        "name": "The Earl's Court",
+        "image": "https://pix10.agoda.net/property/3776/0/f6a157facd83bf78f4a5a2ad5212787f.jpeg?ce=0&s=414x232",
+        "price": 10000,
+        "rating": 4.4,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Himalaya",
+        "image": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/20110729133046801-72f03870e86e11ebbb100242ac110006.jpg",
+        "price": 7000,
+        "rating": 4.2,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel City Heart",
+        "image": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels-listing/hotels-listing-card/itc-mughal.png",
+        "price": 5000,
+        "rating": 4.1,
+        "reviews": 10
+      },
+      {
+        "name": "Hotel Sapphire",
+        "image": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2019/28241/0%20The%20Oberoi%20Amarvilas%20-%20day.jpg",
+        "price": 3500,
+        "rating": 4.0,
+        "reviews": 10
+      }
+    ]
   }
 ]

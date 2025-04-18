@@ -1,31 +1,11 @@
-import { MapContainer, TileLayer, Marker, Popup, useMap } from "react-leaflet";
+import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import L from "leaflet";
-import { useEffect } from "react";
 import data from "../../json/locations.json";
-
-const defaultIcon = new L.Icon({
-  iconUrl: "https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png",
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
-});
-
-type Location = (typeof data)[0];
-
-type Props = {
-  onSelect: (loc: Location) => void;
-  focusLocation: Location | null;
-};
-
-function ChangeView({ lat, lng }: { lat: number; lng: number }) {
-  const map = useMap();
-  useEffect(() => {
-    map.setView([lat, lng], 12);
-  }, [lat, lng, map]);
-  return null;
-}
+import { Props } from "./type";
+import { useCustomMap } from "./useuseCustomMapHook";
 
 const CustomMap = ({ onSelect, focusLocation }: Props) => {
+  const { defaultIcon, ChangeView } = useCustomMap();
   return (
     <MapContainer
       center={[22.9734, 78.6569]}

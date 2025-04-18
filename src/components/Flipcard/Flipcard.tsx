@@ -1,15 +1,7 @@
 import { Box, Typography } from "@mui/material";
 import { useState } from "react";
-
-type FlipCardProps = {
-  frontImage: string;
-  title: string;
-  subtitle?: string;
-  description: string;
-  width?: number;
-  height?: number;
-  anotherSide?: boolean;
-};
+import { FlipCardProps } from "./type";
+import * as style from "./style";
 
 const FlipCard = ({
   frontImage,
@@ -23,116 +15,38 @@ const FlipCard = ({
   const [flipped, setFlipped] = useState(false);
 
   return (
-    <Box
-      onClick={() => setFlipped(!flipped)}
-      sx={{
-        perspective: "1000px",
-        width,
-        height,
-        cursor: "pointer",
-        borderRadius: 5,
-      }}
-    >
-      <Box
-        sx={{
-          position: "relative",
-          width: "100%",
-          height: "100%",
-          transformStyle: "preserve-3d",
-          transition: "transform 0.8s",
-          transform: flipped ? "rotateY(180deg)" : "rotateY(0deg)",
-          borderRadius: 5,
-        }}
-      >
+    <Box onClick={() => setFlipped(!flipped)} sx={style.mainBox(width, height)}>
+      <Box sx={style.flipCardBox(flipped)}>
         {/* Front */}
-        <Box
-          sx={{
-            position: "absolute",
-            width: "100%",
-            height: "100%",
-            backfaceVisibility: "hidden",
-            backgroundColor: "#ffffff",
-            borderRadius: 5,
-            boxShadow: "0 10px 25px rgba(0,0,0,0.15)",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "space-between",
-            px: 4,
-            py: 3,
-            overflow: "hidden",
-          }}
-        >
+        <Box sx={style.frontCardBox}>
           <Box
             component="img"
             src={frontImage}
             alt="Feature Image"
-            sx={{
-              mt: 9,
-              height: "100%",
-              width: "80%",
-              objectFit: "contain",
-            }}
+            sx={style.imgBox}
           />
 
           <Box display={"flex"} flexDirection={"column"}>
-            <Typography
-              variant="h3"
-              textAlign={"start"}
-              sx={{
-                fontWeight: 600,
-                color: "#4a4a4a",
-              }}
-            >
+            <Typography variant="h3" textAlign={"start"} sx={style.headingTypo}>
               {title}
             </Typography>
-            <Typography
-              variant="h3"
-              sx={{
-                fontWeight: 800,
-                color: "#000",
-              }}
-            >
+            <Typography variant="h3" sx={style.subtitleTypo}>
               {subtitle}
             </Typography>
           </Box>
         </Box>
 
         {anotherSide && (
-          <Box
-            sx={{
-              position: "absolute",
-              width: "100%",
-              height: "100%",
-              backfaceVisibility: "hidden",
-              backgroundColor: "#ffffff",
-              borderRadius: 5,
-              boxShadow: "0 10px 25px rgba(0,0,0,0.15)",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "space-between",
-              px: 4,
-              py: 3,
-              overflow: "hidden",
-            }}
-          >
+          <Box sx={style.anotherSideBox}>
             <Box display={"flex"} flexDirection={"column"} ml={8}>
               <Typography
                 variant="h3"
                 textAlign={"start"}
-                sx={{
-                  fontWeight: 600,
-                  color: "#4a4a4a",
-                }}
+                sx={style.headingTypo}
               >
                 {title}
 
-                <Typography
-                  variant="h3"
-                  sx={{
-                    fontWeight: 800,
-                    color: "#000",
-                  }}
-                >
+                <Typography variant="h3" sx={style.subtitleTypo}>
                   {subtitle}
                 </Typography>
               </Typography>
@@ -141,32 +55,12 @@ const FlipCard = ({
               component="img"
               src={frontImage}
               alt="Feature Image"
-              sx={{
-                mb: 10,
-                height: "100%",
-                width: "100%",
-                objectFit: "contain",
-              }}
+              sx={style.imageBoxBack}
             />
           </Box>
         )}
         {/* Back */}
-        <Box
-          sx={{
-            position: "absolute",
-            width: "100%",
-            height: "100%",
-            backfaceVisibility: "hidden",
-            backgroundColor: "#f7f7f7",
-            transform: "rotateY(180deg)",
-            borderRadius: 5,
-            boxShadow: "0 10px 25px rgba(0,0,0,0.15)",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            p: 4,
-          }}
-        >
+        <Box sx={style.backBox}>
           <Typography
             variant="body1"
             textAlign="start"
